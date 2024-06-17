@@ -5,3 +5,9 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 haroldli/alist-tvbox
+cloudnas/clouddrive2
+gdy666/lucky
+jeessy/ddns-go
+0nlylty/dockercopilot
+linkease/ddnsto
+tailscale/tailscale
