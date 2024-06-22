@@ -9,3 +9,4 @@ haroldli/alist-tvbox
 cloudnas/clouddrive2
 gdy666/lucky
 jeessy/ddns-go
+lotte12306/openclash
