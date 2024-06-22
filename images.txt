@@ -1,3 +1,2 @@
 tailscale/tailscale
-dreamacro/clash
-haishanh/yacd
+mzz2017/v2raya
