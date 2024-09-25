@@ -1,1 +1,4 @@
 hectorqin/reader
+tailscale/tailscale
+xhofe/alist
+0nlylty/dockercopilot
